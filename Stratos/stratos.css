@@ -22,7 +22,7 @@
 @font-face {
   font-family: "Stratos-Medium-Web";
   src: url("Stratos-Medium-Web.woff2") format("woff2"),url("Stratos-Medium-Web.woff") format("woff"),url("Stratos-Medium-Web.ttf") format("truetype");
-  font-weight: 500;
+  font-weight: 550;
   font-style: normal
 }
 
