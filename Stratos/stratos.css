@@ -29,7 +29,7 @@
 @font-face {
   font-family: "Stratos-Bold-Web";
   src: url("Stratos-Bold-Web.woff2") format("woff2"),url("Stratos-Bold-Web.woff") format("woff"),url("Stratos-Bold-Web.ttf") format("truetype");
-  font-weight: normal;
+  font-weight: 600;
   font-style: normal
 }
 
