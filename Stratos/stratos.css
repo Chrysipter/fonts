@@ -22,14 +22,14 @@
 @font-face {
   font-family: "Stratos-Medium-Web";
   src: url("Stratos-Medium-Web.woff2") format("woff2"),url("Stratos-Medium-Web.woff") format("woff"),url("Stratos-Medium-Web.ttf") format("truetype");
-  font-weight: 550;
+  font-weight: 500;
   font-style: normal
 }
 
 @font-face {
   font-family: "Stratos-Bold-Web";
   src: url("Stratos-Bold-Web.woff2") format("woff2"),url("Stratos-Bold-Web.woff") format("woff"),url("Stratos-Bold-Web.ttf") format("truetype");
-  font-weight: 700;
+  font-weight: normal;
   font-style: normal
 }
 
