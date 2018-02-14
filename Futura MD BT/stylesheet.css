@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'futura_md_btbold';
     src: url('futura_md_bt-webfont.woff2') format('woff2'),
-         url('futura_md_bt-webfont.woff') format('woff');
+         url('futura_md_bt-webfont.woff') format('woff'),
+         url('futura_md_bt-webfont.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 
